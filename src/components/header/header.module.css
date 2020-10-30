@@ -1,0 +1,10 @@
+.nav li{
+  text-decoration: none;
+  color: #000;
+  list-style: none;
+}
+
+.nav{
+  display: flex;
+  justify-content: center;
+}
